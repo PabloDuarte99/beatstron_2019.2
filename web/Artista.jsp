@@ -1,7 +1,7 @@
 <%-- 
     Document   : Artista
     Created on : 07-may-2019, 17:39:34
-    Author     : VENGA
+    Author     : Pablo
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
