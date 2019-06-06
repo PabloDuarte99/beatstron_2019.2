@@ -1,0 +1,152 @@
+*{
+	margin:0px;
+	padding:0px;
+        font-family: 'Arimo', sans-serif;
+	color: #7C7575;
+}
+
+h1 {
+        font-family: 'Lobster', cursive;
+        font-size: 2.7em;
+        margin-top: 30px;
+        color: #554B4B;
+}
+
+header{
+	width:auto;
+	height:150px;
+	background-color: aqua;
+}
+
+div.contenedor{
+        width: 273.2px;
+	height: 150px;
+	float:left;
+	-webkit-transition: height .4s;
+}
+
+div#uno{
+	background-color: #ccc;
+}
+
+div#dos{
+	background-color: #858490;
+}
+
+div#tres{
+	background-color: #ccc;
+}
+
+div#cuatro{
+	background-color: #858490;
+}
+
+div#seis{
+	background-color: #ccc;
+}
+
+img.icon{
+	display: block;
+	margin:10px auto;
+	background-color: rgba(255,255,255,.15);
+	width:40px;
+	padding:20px;
+	-webkit-border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+}
+
+p.texto{
+	font-size: 1.2em;
+	color:white;
+	text-align: center;
+	padding-top:-10px;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover{
+	height:180px;
+}
+
+div.contenedor:hover p.texto{
+	padding-top: 30px;
+	opacity: 1;
+}
+
+div.contenedor:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
